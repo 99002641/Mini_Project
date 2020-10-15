@@ -1,5 +1,7 @@
 # Employee/intern Portfolio Generator (cpp mini-project)
-
+|Code Quality|
+|:-:|
+|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/35fe3e20d57742fdbe1bb8575057a995)](https://www.codacy.com/gh/99002641/Mini_Project/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=99002641/Mini_Project&amp;utm_campaign=Badge_Grade)|
 ## Integrated Tools 
 codacy
 ## objective
