@@ -1,8 +1,5 @@
 # Employee/intern Portfolio Generator (cpp mini-project)
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/35fe3e20d57742fdbe1bb8575057a995)](https://www.codacy.com/gh/99002641/Mini_Project/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=99002641/Mini_Project&amp;utm_campaign=Badge_Grade)
-![C/C++ CI](https://github.com/99002641/Mini_Project/workflows/C/C++%20CI/badge.svg)
-![Valgrind](https://github.com/99002641/Mini_Project/workflows/Valgrind/badge.svg)
-![cppcheck-action](https://github.com/99002641/Mini_Project/workflows/cppcheck-action/badge.svg)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/6436539876384c909ca900280cb509c2)](https://www.codacy.com/gh/99002641/Mini-Project/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=99002641/Mini-Project&amp;utm_campaign=Badge_Grade)
 
 ## Integrated Tools 
 *  codacy
