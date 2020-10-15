@@ -1,0 +1,21 @@
+NAME:Chester
+ID:2656
+Date Of Birth:12/19/1998
+STATE:Tamilnadu
+CPP Programming:51
+PYTHON:92
+LINUX:67
+SDLC:43
+
+
+
+|>>>>>>>>>>>>(51)C Plus Plus
+|>>>>>>>>>>>>>>>>>>>>(92)Python
+|>>>>>>>>>>(43)SDLC
+|>>>>>>>>>>>>>>(67)LINUX
+
+
+
+TOTAL:253
+
+PERCENTILE:90
