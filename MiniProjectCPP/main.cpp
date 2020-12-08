@@ -11,13 +11,16 @@ int main()
     intern A;
     A.readit(thelist);
     A.percentile_generator(thelist);
+
+    cout<<"\n ** Complete Processed data is saved Under filename: \"COMPLETE_DATA.csv\" ";
+    cout<<"\n ** Abstract Rankwise data is stored under filename: \"Abstract_RankWise_data.txt \" ";
     while(1)
     {
 
-        cout<<"ENTER choice:\n\n";
-        cout<<"1->enter the Number of TOP Records to Fetch:\n";
-        cout<<"2->Enter the id to generate Portfolio:\n";
-        cout<<"3->exit.\n";
+        cout<<"\n\nENTER choice:\n\n";
+        cout<<"1)enter the Number of TOP Records to Fetch:\n";
+        cout<<"2)Enter the id to generate Portfolio:\n";
+        cout<<"3)exit.\n";
         cin>>choice;
         switch(choice)
         {
@@ -31,7 +34,7 @@ int main()
             cout<<"enter Employee id:\n";
             cin>>iid;
             A.pattern_generator(thelist,iid);
-            cout<<"**"<<iid<<"'s Portfolio has been saved under filename \"individual.txt\"\n\n\n";
+            
             cout<<"\n-----------------------------------------------------------------------------------------\n";
             break;
 
